@@ -1,1 +1,1 @@
-# index.html
+<script type='text/javascript' id='susi-bot-script' data-userid='eeddddbbe5700183cc9149c8de396760' data-group='Communication' data-language='en' data-skill='Shiroiskawaiiaf' src='https://skills.susi.ai/susi-chatbot.js'></script>
